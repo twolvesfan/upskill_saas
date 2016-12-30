@@ -18,11 +18,16 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a href="/" class="navbar-brand"><i class="fa fa-tree"></i></i>Blue Maple</a>
+          <%= link_to root_path, class: "navbar-brand" do %>
+            <i class="fa fa-tree"></i>
+          
+          <% end %>
+            <i class="fa fa-tree"></i>
         </div>
         <div class="collapse navbar-collapse" id="main-nav-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li><a href="/about">About</a></li>
+            <li><%= link_to "About", about_path %></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div>
