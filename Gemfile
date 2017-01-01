@@ -33,6 +33,9 @@ gem 'bootstrap-sass', '3.3.7'
 #use fontawesome sass gem for icons
 gem 'font-awesome-sass', '4.6.2'
 
+# Use hirb for better database table display in console
+gem 'hirb', '0.7.3'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   # Use sqlite3 as the database for Active Record
