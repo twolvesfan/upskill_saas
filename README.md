@@ -13,10 +13,8 @@
 
 # https://github.com/UpskillCourses/upskill_saas_tutorial
 # GIT TEST
-<<<<<<< HEAD
-=======
 #repairs
->>>>>>> contact_form
+
 
 
 #REQUIRED READING-------------------------------------
