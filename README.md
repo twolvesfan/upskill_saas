@@ -25,3 +25,6 @@
 ###NOTES--------------------------------------
 #SQL is a form of database best visualized by spreadsheet
 #NOSQL another type of database - lookse more like a dict
+
+
+# 11 minutes into video 111
